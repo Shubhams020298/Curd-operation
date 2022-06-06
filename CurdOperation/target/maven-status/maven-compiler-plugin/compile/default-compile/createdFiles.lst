@@ -1,0 +1,4 @@
+com\lerning\springrenttempleat\SpringRestTempleatApplication.class
+com\lerning\springrenttempleat\controller\CustomerController.class
+com\lerning\springrenttempleat\model\CustomerModel.class
+com\lerning\springrenttempleat\service\ICustomerDao.class
